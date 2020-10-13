@@ -1,1 +1,1 @@
-ready to use brute force hack for zip files.
+two ready to use brute force hacks for zip files.
